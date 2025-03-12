@@ -254,7 +254,7 @@
 
     .testimonials-blur {
         position: relative;
-        color: #fff;
+        color: #000000;
         text-align: center;
         padding: 4rem 0;
         overflow: hidden;
@@ -265,7 +265,7 @@
         position: absolute;
         inset: 0;
         background: url("images/Students.jpg") center center/cover no-repeat;
-        filter: blur(4px);
+        filter: blur(40px);
         z-index: -1;
     }
 
